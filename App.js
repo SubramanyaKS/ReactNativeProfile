@@ -26,6 +26,7 @@ export default function App() {
           // flex: 1
         },
         drawerInactiveTintColor:"#000",
+        drawerActiveTintColor:"#fff",
         drawerActiveBackgroundColor:"#000",
         headerTintColor: '#000',
         headerTitleStyle: {
