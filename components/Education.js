@@ -51,6 +51,8 @@ const styles = StyleSheet.create({
   degree: {
     textAlign: "center",
     marginTop: 5,
+    color:"#fff",
+    fontWeight:"bold"
   },
   university:{ 
     marginBottom: 10, 
@@ -61,7 +63,7 @@ const styles = StyleSheet.create({
   },
   title:{
     fontWeight:"bold",
-    color:"#000",
+    color:"#fff",
     fontSize:18,
     textAlign: "center",
   }
