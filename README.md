@@ -14,3 +14,26 @@ React Native is a framework developed by Meta that enables you to build world-cl
 - Attractive UI
 - Fullscreen mode
 - Cross platform
+
+# Authors
+
+- [Subramanya K S](https://www.github.com/SubramanyaKS)
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [FontAwesome](https://fontawesome.com/search)
+ - [Expo](https://expo.dev/)
+
+ ## Feedback
+
+If you have any feedback, please reach out to me at [email](connectwithsubbu@gmail.com)
+
+If you like this don't forget to ⭐ the repository.
+
+
+Thank You for visiting
+Have a nice day 😊 
+
