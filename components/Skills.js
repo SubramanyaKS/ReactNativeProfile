@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
       header:{
         fontSize:35,
         marginBottom:25,
-        color:"#1f51ff",
+        color:"#b905f5",
       },
       card: {
         width:350,
