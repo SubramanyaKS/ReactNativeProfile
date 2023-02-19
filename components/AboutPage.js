@@ -32,9 +32,9 @@ const styles = StyleSheet.create({
         
       },
       heading:{
-        fontSize:35,
-         marginBottom:25,
-         color:"#1f51ff"
+          fontSize: 35,
+           marginBottom: 25,
+            color: "#b905f5",
       },
       text:{
         margin:16,
