@@ -6,7 +6,7 @@ import { Card } from "@rneui/themed";
 export default function EducationPage() {
   return (
     <View style={styles.container}>
-      <Text style={{ fontSize: 35, marginBottom: 25, color: "#1f51ff" }}>
+      <Text style={styles.header}>
         Education
       </Text>
 
@@ -54,16 +54,22 @@ const styles = StyleSheet.create({
     color:"#fff",
     fontWeight:"bold"
   },
+  header:{
+    fontSize: 35,
+     marginBottom: 25,
+      color: "#b905f5"
+  },
   university:{ 
     marginBottom: 10, 
     marginTop: 0, 
     padding: 0 ,
-    fontStyle:"italic",
+    color:"#2efc1c",
+    fontStyle:"bold",
     textAlign: "center",
   },
   title:{
     fontWeight:"bold",
-    color:"#fff",
+    color:"#05f57d",
     fontSize:18,
     textAlign: "center",
   }
