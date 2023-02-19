@@ -8,7 +8,7 @@ export default function ExperiencePage() {
   return (
     <ScrollView>
     <View style={styles.container}>
-      <Text style={{ fontSize: 35, marginBottom: 25, color: "#1f51ff" }}>
+      <Text style={styles.header}>
         Experience
       </Text>
       <Card containerStyle={styles.card}>
@@ -17,7 +17,7 @@ export default function ExperiencePage() {
         </Card.Title>
         <Text style={styles.company}>Ekathva Innovations Pvt. Ltd</Text>
         <Card.Divider />
-        <Text>
+        <Text style={styles.text}>
           Done a Project titled "Django Based REST API development for Ayucare
           Management".One month online industry level internship helped me to
           gain knowledge about resent technology, ideologies and aesthetics of
@@ -41,7 +41,7 @@ export default function ExperiencePage() {
         </Card.Title>
         <Text style={styles.company}>The Sparks Foundation</Text>
         <Card.Divider />
-        <Text>
+        <Text style={styles.text}>
           My First Internship helped me to gain some knowledge on web
           development. Worked on the project title "Basic Banking System" which
           is demonstrate the basic banking operation
@@ -75,8 +75,17 @@ const styles = StyleSheet.create({
     marginBottom: 10,
     marginTop: 0,
     padding: 0,
+    color:"#2efc1c",
     fontWeight: "bold",
     textAlign: "center",
+  },
+  header:{
+    fontSize: 35,
+     marginBottom: 25,
+      color: "#b905f5"
+  },
+  text:{
+    color:"#55fafa",
   },
   card: {
     width: 350,
