@@ -7,7 +7,7 @@ export default function HomePage() {
     return (
         <View style={styles.container}>
         <Text style={styles.text}>Hi I am </Text>
-        <Text style={{fontSize:40,color:"#1f51ff"}}>Subramanya K S</Text>
+        <Text style={{fontSize:40,color:"#fff"}}>Subramanya K S</Text>
         <StatusBar style="auto" />
       </View>
     )
