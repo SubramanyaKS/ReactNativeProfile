@@ -171,7 +171,10 @@ const styles = StyleSheet.create({
         height: 50,
       },
       title:{
-          textAlign:"center"
+          textAlign:"center",
+          fontWeight:"bold",
+          color:"#fff",
+          marginBottom:2,
       },
       views:{
           flexDirection:"row",
